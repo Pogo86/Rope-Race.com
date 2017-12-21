@@ -1,0 +1,8 @@
+#404 error handeling
+ErrorDocument 404 /404.php
+
+#re-names urls without the .php file exstention
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php
