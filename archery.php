@@ -1,5 +1,6 @@
 <?php $title= "Archry at Rope Race Climbing Centre";?>
 <?php $metaDescription= "";?>
+<?php $groupTag="Misc";?>
 <!-- Also Like Links & imgs -->
 <?php $alsoLikeLink1="beginnersClimbing";?>
 <?php $alsoLikeImg1="beginners";?>

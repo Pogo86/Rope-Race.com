@@ -4,7 +4,7 @@
 <html lang="en">
 
 	<head>
-		<?php require_once(dirname(__FILE__).'gtag.php');?>
+		<?php require_once(dirname(__FILE__).'/gtag.php');?>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<meta name="description" content="<?php the_meta_description() ?>">

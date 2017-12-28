@@ -1,5 +1,6 @@
 <?php $title= "Mobile Climbing Wall - Rope Race Climbing Centre";?>
 <?php $metaDescription= "";?>
+<?php $groupTag="Charity";?>
 <!-- Also Like Links & imgs -->
 <?php $alsoLikeLink1="abseils";?>
 <?php $alsoLikeImg1="charityAbseils";?>

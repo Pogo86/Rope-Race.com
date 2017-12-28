@@ -1,5 +1,6 @@
 <?php $title= "Adult Climbing Courses - Rope Race Climbing Centre";?>
 <?php $metaDescription= "Pick the perfect way for you to learn to climb. Taster sessions from £15.00 and Beginners Courses from £90.00. Many other ways to learn too.";?>
+<?php $groupTag="Adults";?>
 <?php require_once(dirname(__FILE__).'/header.php');?>
     <!-- Page Content -->
     <div class="container">

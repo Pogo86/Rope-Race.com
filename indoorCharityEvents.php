@@ -1,5 +1,6 @@
 <?php $title= "Indoor Charity Events - Rope Race Climbing Centre";?>
 <?php $metaDescription= "";?>
+<?php $groupTag="Charity";?>
 <!-- Also Like Links & imgs -->
 <?php $alsoLikeLink1="mobileClimbingWall";?>
 <?php $alsoLikeImg1="mobileClimbingWall";?>

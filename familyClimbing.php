@@ -1,6 +1,6 @@
 <?php $title= "Climbing for the Whole Family - Rope Race Climbing Centre";?>
 <?php $metaDescription= "Our Family Climbing sessions run on Sundays 11:00am-1:00 pm.<br>They are the perfect session to climb as a family. You will be taught how to look after yourself and children";?>
-
+<?php $groupTag="Adults";?>
 <!-- Also Like Links & imgs -->
 <?php $alsoLikeLink1="tasterSession";?>
 <?php $alsoLikeImg1="tasterSession";?>

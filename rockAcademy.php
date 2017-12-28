@@ -1,5 +1,6 @@
 <?php $title= "Rock Academy Competition Climbing Team - Rope Race Climbing Centre";?>
 <?php $metaDescription= "The Rock Academy climbing team A competition team for young climbers who want to push what they can do whilst climbing with like-minded young people. Training for National Competition!";?>
+<?php $groupTag="Kids";?>
 <!-- Also Like Links & imgs -->
 <?php $alsoLikeLink1="geckosClimbingClub";?>
 <?php $alsoLikeImg1="geckos";?>

@@ -1,5 +1,6 @@
 <?php $title= "404 Error Page, Sorry - Rope Race Climbing Centre";?>
 <?php $metaDescription= "404 error page for Rope Race Climbing Centre, Sorry you are seeing this, please try one of the links below.";?>
+<?php $groupTag="Misc";?>
 <?php require_once(dirname(__FILE__).'/header.php');?>
 
 <!doctype html>

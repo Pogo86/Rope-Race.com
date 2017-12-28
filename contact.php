@@ -1,5 +1,6 @@
 <?php $title= "Rope Race Climbing Centre Contact Details";?>
 <?php $metaDescription= "Need to contact us? All our information is here, call 0161 426 0226 or email contact@roperace.co.uk";?>
+<?php $groupTag="Misc";?>
 <?php require_once(dirname(__FILE__).'/header.php');?>
 
 <!doctype html>

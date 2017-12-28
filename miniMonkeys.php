@@ -1,5 +1,6 @@
 <?php $title= "Mini Monkeys Climbing Club - Rope Race Climbing Centre";?>
 <?php $metaDescription= "Climbing for 5 year old kids in small groups.<br/>The the perfect way to get your mini monkey into rock climbing in a safe &amp; friendly environment!";?>
+<?php $groupTag="Kids";?>
 <!-- Also Like Links & imgs -->
 <?php $alsoLikeLink1="geckosClimbingClub";?>
 <?php $alsoLikeImg1="geckos";?>

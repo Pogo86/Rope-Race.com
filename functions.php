@@ -16,6 +16,13 @@ function the_subtitle(){
 	echo $subtitle;
 }
 
+//Output the gTag Group
+function the_group_tag(){
+	global $groupTag;
+	
+	echo $groupTag;
+}
+
 //Output the URL
 function home_url(){
 	echo ABS_URL;

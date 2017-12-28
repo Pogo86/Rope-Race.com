@@ -1,5 +1,6 @@
 <?php $title= "Taster Climbing Sessions - Rope Race Climbing Centre";?>
 <?php $metaDescription= "Have a go climbing taster sessions. The best way to try out rock climbing. Have fun as a group or in a 1-2-1 session with your qualified instructor.";?>
+<?php $groupTag="Adults";?>
 <!-- Also Like Links & imgs -->
 <?php $alsoLikeLink1="beginnersClimbing";?>
 <?php $alsoLikeImg1="beginners";?>

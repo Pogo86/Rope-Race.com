@@ -1,5 +1,6 @@
 <?php $title= "Climbing Birthday Parties - Rope Race Climbing Centre";?>
 <?php $metaDescription= "Climbing and Archery Kids Birthday parties.<br>Do something different for your childs birthday party this year!";?>
+<?php $groupTag="Kids";?>
 <!-- Also Like Links & imgs -->
 <?php $alsoLikeLink1="geckosClimbingClub";?>
 <?php $alsoLikeImg1="geckos";?>

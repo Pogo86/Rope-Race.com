@@ -1,5 +1,6 @@
 <?php $title= "Schools & Youth Clubs - Kids at the Rope Race Climbing Centre";?>
 <?php $metaDescription= "We cater for all types and sizes of Schools, Youth Clubs, Scouting &amp; Guiding groups.<br>Our staff will run an amazing activity session for our group that they will remember for years!";?>
+<?php $groupTag="Kids";?>
 <!-- Also Like Links & imgs -->
 <?php $alsoLikeLink1="mobileClimbingWall";?>
 <?php $alsoLikeImg1="mobileClimbingWall";?>

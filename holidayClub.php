@@ -1,5 +1,6 @@
 <?php $title= "School Holidays Adventure Club - Rope Race Climbing Centre";?>
 <?php $metaDescription= "The most fun holiday club around! Climbing, Archery &amp; Geocaching.<br/>Single sessions and Full Days Available. Prices from £12.00";?>
+<?php $groupTag="Kids";?>
 <!-- Also Like Links & imgs -->
 <?php $alsoLikeLink1="geckosClimbingClub";?>
 <?php $alsoLikeImg1="geckos";?>

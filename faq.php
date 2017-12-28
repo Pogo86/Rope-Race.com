@@ -1,5 +1,6 @@
 <?php $title= "Rope Race Climbing Centre FAQ's";?>
 <?php $metaDescription= "The answer to your questions will probably be here.<br>Wear trainers &amp; clothes you can move around in, no skinny jeans or skirts";?>
+<?php $groupTag="Misc";?>
 <?php require_once(dirname(__FILE__).'/header.php');?>
 
     <!-- Page Content -->

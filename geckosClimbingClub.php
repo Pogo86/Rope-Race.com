@@ -1,6 +1,6 @@
 <?php $title= "Geckos Climbing Club - Kids at the Rope Race Climbing Centre";?>
-<?php $title= "Geckos Climbing Club - Kids at the Rope Race Climbing Centre";?>
 <?php $metaDescription= "The Geckos Climbing Club is the best way for you kids to learn to climb. Only £9.00 for 2 hours! Anyone between 6 &amp; 18 is welcome. Please Book 0161 426 0226";?>
+<?php $groupTag="Kids";?>
 <!-- Also Like Links & imgs -->
 <?php $alsoLikeLink1="miniMonkeys";?>
 <?php $alsoLikeImg1="miniMonkeys";?>

@@ -1,5 +1,6 @@
 <?php $title= "Kids Climbing Sessions - Rope Race Climbing Centre";?>
 <?php $metaDescription= "Climbing for children. We have several options for children to climb. Starting from 5 years old. Kids climbing clubs, Competition Team and NICAS sessions.";?>
+<?php $groupTag="Kids";?>
 <?php require_once(dirname(__FILE__).'/header.php');?>
     <!-- Page Content -->
     <div class="container">
