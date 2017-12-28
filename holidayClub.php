@@ -89,7 +89,7 @@
       			</tr>
       			<tr>
       				<td>Thursday</td>
-      				<td>Geocaching</td>
+      				<td>Climbing</td>
       				<td>Lunch</td>
       				<td>Archery</td>
       				<td>Climbing</td>
