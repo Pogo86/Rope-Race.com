@@ -127,7 +127,10 @@
               <li class="list-group-item">Canoeing Parties ages 8 and up</li>
             </ul>
           </div>
-        </div>        
+        </div>
+		<p align="center">
+			<a href="tel:01614260226" class="btn btn-primary">Call &amp; Book Now</a>
+		</p>
         </div>
       <!-- /.row -->      
       	<!-- Also Like Links -->    

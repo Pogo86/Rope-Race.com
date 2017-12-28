@@ -70,7 +70,10 @@
     		<strong>All sessions are run by friendly, professional and experienced instructors who will encourage your group to reach their full potential.</strong>
     		<br><strong>Rope Race is a Primary &amp; Awarding centre for all 5 level of the National Indoor Climbing Achievement Scheme. The NICAS award has been recognised by many Examination Boards.</strong>
      		</p>
-      	</div>
+			<p align="center">
+				<a href="tel:01614260226" class="btn btn-primary">Call &amp; Book Now</a>
+			</p>
+		  </di>
       </div>
       <!-- /.row -->
 		<!-- Also Like Links -->    

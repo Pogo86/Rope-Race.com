@@ -99,7 +99,10 @@
               <div class="font-italic">per hour</div>
             </div>
           </div>
-        </div>        
+        </div>   
+		<p align="center">
+			<a href="tel:01614260226" class="btn btn-primary">Call &amp; Book Now</a>
+		</p>
         </div>
       <!-- /.row -->      
 		<!-- Also Like Links -->    

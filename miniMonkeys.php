@@ -63,6 +63,9 @@
          	<br>The Mini Monkeys Club is run in blocks of 6 weeks at a cost of £54.00, this includes all the instruction and equipment.
 			<br>Rock boots can be hired at an additional cost, but are not a essential.
      		</p>
+			<p align="center">
+				<a href="tel:01614260226" class="btn btn-primary">Call &amp; Book Now</a>
+			</p>
       	</div>
       </div>
       <!-- /.row -->

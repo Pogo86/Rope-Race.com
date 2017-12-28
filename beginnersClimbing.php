@@ -71,6 +71,9 @@
     			<br><strong>The Cost</strong>
           		<br>The cost of the Beginners course is £90.00. This is for the four week course all instruction and all equipment that you will need throughout. As a bonus you can also boulder for the duration (4weeks) of your course free of charge whenever you like.
      		</p>
+			<p align="center">
+				<a href="tel:01614260226" class="btn btn-primary">Call &amp; Book Now</a>
+			</p>
       	</div>
       </div>
       <!-- /.row -->    

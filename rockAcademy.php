@@ -62,6 +62,9 @@
          	<br>The cost for the session is £9.00per person, this includes all the instruction and equipment. 
          	<br>Rock boots can be hired at an additional cost of £2.50
      		</p>
+			<p align="center">
+				<a href="tel:01614260226" class="btn btn-primary">Call &amp; Book Now</a>
+			</p>
       	</div>
       </div>
       <!-- /.row -->
