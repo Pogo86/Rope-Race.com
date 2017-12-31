@@ -29,7 +29,7 @@
 				</div>
 			</a>
 			<!-- Slide Three - Set the background image for this slide in the line below -->
-			<a href="#" class="carousel-item" style="background-image: url(assets/img/sliders/homeSlide_fit2018.jpg)">
+			<a href="adultClimbing.php" class="carousel-item" style="background-image: url(assets/img/sliders/homeSlide_fit2018.jpg)">
 				<div class="carousel-caption d-none d-md-block">
 					<h3></h3>
 					<p></p>
