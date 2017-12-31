@@ -18,6 +18,13 @@
       </ol>
 
       <div class="row">
+		  <div class="col-lg-12">
+			  <h2>Climbing is the most fun way to get fit in 2018</h2>
+			  <p>
+				  Indoor climbing gives your whole body a workout testing both body and mind.
+				  <br>Why not try climbing in one of our Taster Session or Learn everything you need to climb on your own in our Beginners Courses.
+			  </p>
+		  </div>
         <div class="col-lg-6 portfolio-item">
           <div class="card h-100">
             <a href="tasterSession"><img class="card-img-top" src="/assets/img/tasterSession700x400.jpg" alt="Taster Climbig Sessions"></a>

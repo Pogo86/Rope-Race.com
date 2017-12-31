@@ -1,6 +1,6 @@
 <?php $title= "Rope Race Climbing Centre - Home";?>
 <?php $metaDescription= "At Rope Race Climbing Centre we have been teaching people to climb for over 20 years. Brilliant for all ages and abilities, learn to climb and boulder.";?>
-<?php $groupTag="Misc";?>
+<?php $groupTag="Home";?>
 <?php require_once(dirname(__FILE__).'/header.php');?>
 
 <!doctype html>
