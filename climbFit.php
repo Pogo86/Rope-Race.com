@@ -46,9 +46,10 @@
         <div class="col-md-4">
           <h3 class="my-3">Climb Fit 2018 - Fitness through climbing</h3>
           <p>
-			kjvfeebkhvbkkbfvbkj
-			<br><br><strong>The Sessions</strong>
-          	<br>
+			Fed up with the gym? why not be part of the latest Olympic sport?  It's not just a sport it's a lifestyle.
+			  Rather than running on the spot for the next 12 months, <i>plan an adventure, get fit and meet new likeminded people</i>.
+			<br><br><strong>Benefits</strong>
+          	<br>Climbing has been proven to give you a whole body work out no matter your ability, from beginner to professional climbing is great for your general fitness, agility, strength and even problem-solving skills
           </p>
         </div>
 
