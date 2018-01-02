@@ -15,17 +15,10 @@
 				</div>
 			</a>
 			<!-- Slide Two - Set the background image for this slide in the line below -->
-			<a href="holidayClub.php" class="carousel-item" style="background-image: url('assets/img/sliders/homeSlide_holdayAdventureClub.jpg')">
+			<a href="geckosClimbingClub.php" class="carousel-item" style="background-image: url('assets/img/sliders/homeSlide_Geckos.jpg')">
 				<div class="carousel-caption d-none d-md-block">
-					<h3><span style="color:#111111">Holiday Adventure Club</span></h3>
-					<p><span style="color: #111111">The most exciting school holiday activities arround!</span></p>
-				</div>
-			</a>
-			<!-- Slide Three - Set the background image for this slide in the line below -->
-			<a href="#" class="carousel-item" style="background-image: url(assets/img/sliders/homeSlide_christmasOpeing.jpg)">
-				<div class="carousel-caption d-none d-md-block">
-					<h3></h3>
-					<p></p>
+					<h3><span style="color:#111111"></span></h3>
+					<p><span style="color: #111111"></span></p>
 				</div>
 			</a>
 			<!-- Slide Three - Set the background image for this slide in the line below -->
