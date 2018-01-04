@@ -32,7 +32,7 @@
               <h4 class="card-title">
                 <a href="tasterSession">Taster Session</a>
               </h4>
-              <p class="card-text">Looking for something new to have a go at?. Then why not have a go at indoor rock climbing?
+              <p class="card-text">Looking for something new to have a go at? Then why not have a go at indoor rock climbing?
               <br>Taster sessions for all ages and abilities.</p>
             </div>
           </div>
