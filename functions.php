@@ -46,8 +46,13 @@ function also_like_img_1(){
 	
 	echo IMG_URL,$alsoLikeImg1,"500x300.jpg";
 }
+function also_like_img_1_m(){
+	global $alsoLikeImg1;
+	
+	echo IMG_URL,$alsoLikeImg1,"348x199.jpg";
+}
 
-//also like link & IMG 1
+//also like link & IMG 2
 function also_like_link_2(){
 	global $alsoLikeLink2;
 	
@@ -58,6 +63,11 @@ function also_like_img_2(){
 	global $alsoLikeImg2;
 	
 	echo IMG_URL,$alsoLikeImg2,"500x300.jpg";
+}
+function also_like_img_2_m(){
+	global $alsoLikeImg2;
+	
+	echo IMG_URL,$alsoLikeImg2,"348x199.jpg";
 }
 
 //also like link & IMG 3
@@ -72,6 +82,11 @@ function also_like_img_3(){
 	
 	echo IMG_URL,$alsoLikeImg3,"500x300.jpg";
 }
+function also_like_img_3_m(){
+	global $alsoLikeImg3;
+	
+	echo IMG_URL,$alsoLikeImg3,"348x199.jpg";
+}
 
 //also like link & IMG 4
 function also_like_link_4(){
@@ -84,5 +99,10 @@ function also_like_img_4(){
 	global $alsoLikeImg4;
 	
 	echo IMG_URL,$alsoLikeImg4,"500x300.jpg";
+}
+function also_like_img_4s_m(){
+	global $alsoLikeImg4;
+	
+	echo IMG_URL,$alsoLikeImg4,"348x199.jpg";
 }
 ?>

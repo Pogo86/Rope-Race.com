@@ -29,7 +29,7 @@
           		<a href="<?php home_url();?>">Home</a>
         	</li>
 		  	<li class="breadcrumb-item">
-		  		<a href="kidsClimbing">Kids Climbing Lessons</a>
+		  		<a href="Kids/kidsClimbing">Kids Climbing Lessons</a>
 		  	</li>
         	<li class="breadcrumb-item active">School Holidays Adventure Club</li>
       	</ol>

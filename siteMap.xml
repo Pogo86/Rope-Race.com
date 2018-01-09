@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://www.roperace.com/</loc>
+    <lastmod>2018-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+	
+  <url>
+    <loc>http://www.roperace.com/404.php</loc>
+    <lastmod>2018-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+	
+  <url>
+    <loc>http://www.roperace.com/abseils.php</loc>
+    <lastmod>2018-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>	
+	
+  <url>
+    <loc>http://www.roperace.com/adultClimbing.php</loc>
+    <lastmod>2018-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>http://www.roperace.com/archery.php</loc>
+    <lastmod>2018-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+	
+  <url>
+    <loc>http://www.roperace.com/beginnersClimbing.php</loc>
+    <lastmod>2018-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>http://www.roperace.com/birthdayParties.php</loc>
+    <lastmod>2018-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://www.roperace.com/climbFit</loc>
+    <lastmod>2018-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>http://www.roperace.com/contact.php</loc>
+    <lastmod>2018-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://www.roperace.com/familyClimbing.php</loc>
+    <lastmod>2018-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://www.roperace.com/functionRoom.php</loc>
+    <lastmod>2018-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+  <url>
+    <loc>http://www.roperace.com/geckosClimbingClub.php</loc>
+    <lastmod>2018-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>http://www.roperace.com/holidayClub.php</loc>
+    <lastmod>2018-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>http://www.roperace.com/indoorCharityEvents.php</loc>
+    <lastmod>2018-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>http://www.roperace.com/kidsClimbing.php</loc>
+    <lastmod>2018-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>http://www.roperace.com/miniMonkeys.php</loc>
+    <lastmod>2018-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>http://www.roperace.com/mobileClimbingWall.php</loc>
+    <lastmod>2018-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>http://www.roperace.com/outdoorClimbingNights.php</loc>
+    <lastmod>2018-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>http://www.roperace.com/rockAcademy.php</loc>
+    <lastmod>2018-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://www.roperace.com/schoolsYouthClubs.php</loc>
+    <lastmod>2018-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://www.roperace.com/tasterSession.php</loc>
+    <lastmod>2018-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>http://www.roperace.com/zipWire</loc>
+    <lastmod>2018-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>
+	
+</urlset>
