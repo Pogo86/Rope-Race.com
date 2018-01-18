@@ -27,7 +27,7 @@
 		  </div>
         <div class="col-lg-6 portfolio-item">
           <div class="card h-100">
-            <a href="tasterSession"><img class="card-img-top" src="/assets/img/tasterSession700x400.jpg" alt="Taster Climbig Sessions"></a>
+            <a href="tasterSession"><img class="card-img-top" src="/assets/img/tasterSession700x400.jpg" alt="Taster Climbing Sessions"></a>
             <div class="card-body">
               <h4 class="card-title">
                 <a href="tasterSession">Taster Session</a>

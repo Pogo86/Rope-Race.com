@@ -96,11 +96,11 @@ function also_like_link_4(){
 }
 
 function also_like_img_4(){
-	global $alsoLikeImg4;
+	global $alsoLikeImg3;
 	
 	echo IMG_URL,$alsoLikeImg4,"500x300.jpg";
 }
-function also_like_img_4s_m(){
+function also_like_img_4_m(){
 	global $alsoLikeImg4;
 	
 	echo IMG_URL,$alsoLikeImg4,"348x199.jpg";

@@ -21,7 +21,7 @@
     <div class="container">
     	<!-- Page Heading/Breadcrumbs -->
       	<h1 class="mt-4 mb-3">School Holidays Adventure Club
-        	<small>December 20<sup>th</sup> - December 29<sup>th</sup></small>
+        	<!--<small>December 20<sup>th</sup> - December 29<sup>th</sup></small>-->
       	</h1>
       	
       	<ol class="breadcrumb">
@@ -29,7 +29,7 @@
           		<a href="<?php home_url();?>">Home</a>
         	</li>
 		  	<li class="breadcrumb-item">
-		  		<a href="Kids/kidsClimbing">Kids Climbing Lessons</a>
+		  		<a href="kidsClimbing">Kids Climbing Lessons</a>
 		  	</li>
         	<li class="breadcrumb-item active">School Holidays Adventure Club</li>
       	</ol>

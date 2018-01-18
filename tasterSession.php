@@ -31,7 +31,7 @@
           <a href="<?php home_url();?>">Home</a>
         </li>
 		  <li class="breadcrumb-item">
-		  	<a href="adultClimbing">Adult Climbng</a>
+		  	<a href="adultClimbing">Adult Climbing</a>
 		  </li>
         <li class="breadcrumb-item active">Taster Session</li>
       </ol>
