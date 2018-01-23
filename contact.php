@@ -24,7 +24,7 @@
 			<div class="col-lg-12">
 				<h3>About Us</h3>
 				<p>Rope Race Climbing Centre is a family business and was opened in June 1993.
-					<br>Our climbing wall offers a unique climbing experience with our featured resin walls designed to challenge the most experienced climber and everyone will recognise our back wall as being based on Pea Pod at Curber.
+					<br>Our climbing wall offers a unique climbing experience with our featured resin walls designed to challenge the most experienced climber and everyone will recognise our back wall as being based on Pea Pod at Curber. Located on the edge of the Peak Distict, between Stockport and Macclesfield, Manchester, Cheshire and Derbyshire.
 					<br>Our ply walls routes are change on a weekly basis with new and challenging routes added all the time with the added bonus of some of the UK's most technical volumes being designed and built on site.
 					<br>Rope Race bouldering is spread across 2 areas `The Lounge` and `The Palm Room` plus a training area with slack line and finger boards.
 					<br>The `Fat Badger` cafe is a fantastic addition, serving hot and cold food in a chilled environment along with our world famous`Flapjack`
