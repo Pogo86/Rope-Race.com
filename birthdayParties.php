@@ -65,6 +65,13 @@
      		</p>
       	</div>
       </div>
+		<div class="row">
+			<div class="col-md-12" align="center">
+              <a href="/assets/RopeRacePartyInvite.pdf" download class="btn btn-primary">Download Your Invites Here</a>
+				<br>
+				<br>
+			</div>
+		</div>
       <!-- /.row -->
 <!-- Content Row -->
       <div class="row">
@@ -128,9 +135,9 @@
             </ul>
           </div>
         </div>
-		<p align="center">
+		<div class="col-md-12" align="center">
 			<a href="tel:01614260226" class="btn btn-primary">Call &amp; Book Now</a>
-		</p>
+		</div>
         </div>
       <!-- /.row -->      
       	<!-- Also Like Links -->    

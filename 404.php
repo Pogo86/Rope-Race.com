@@ -73,10 +73,10 @@
                 <a href="mobileClimbingWall">Mobile Climbing Wall</a>
               </li>
               <li>
-              	<a href="abseils.php">Abseil Events</a>
+              	<a href="abseils">Abseil Events</a>
               </li>
               <li>
-              	<a href="zipWires.php">Aip Wire Events</a>
+              	<a href="zipWires">Aip Wire Events</a>
               </li>
               <li>
               	<a href="indoorCharityEvents">Indoor Charity Events</a>
@@ -87,7 +87,7 @@
             </ul>
           </li>
           <li>
-            <a href="contact.php">Contact &amp; About</a>
+            <a href="contact">Contact &amp; About</a>
           </li>
           <li>
           	<a href="archery">Archery</a>

@@ -1,5 +1,5 @@
 <?php $title= "Climb Fit 2018 - Fitness through climbing at the Rope Race Climbing Centre";?>
-<?php $metaDescription= "Climbing is a great way to get fit. It gives you a whole body workout from finger to toes!";?>
+<?php $metaDescription= "Climbing is a great way to get fit. It gives you a whole body workout from finger to toes! Teaching Climbing for Beginners for over 20 Years, the longest running course in the North West!";?>
 <?php $groupTag="Adults";?>
 <!-- Also Like Links & imgs -->
 <?php $alsoLikeLink1="beginnersClimbing";?>
@@ -31,7 +31,7 @@
           <a href="<?php home_url();?>">Home</a>
         </li>
 		  <li class="breadcrumb-item">
-		  	<a href="adultClimbing.php">Adult Climbing</a>
+		  	<a href="adultClimbing">Adult Climbing</a>
 		  </li>
         <li class="breadcrumb-item active">Climb Fit 2018</li>
       </ol>
@@ -66,20 +66,20 @@
 			<div class="row">
 				<div class="col-lg-6 col-md-12">
 					<h3>Beginners Course</h3>
-					<a href="beginnersClimbing.php"><img class="card-img-top" src="assets/img/beginners700x400.jpg" alt=""></a>
+					<a href="beginnersClimbing"><img class="card-img-top" src="assets/img/beginners700x400.jpg" alt=""></a>
 					<p>
 						Learn everything you need to climb indoors. This is the best course around and will have you climbing in no time at all!
 						<br>
-						<a href="beginnersClimbing.php" class="btn btn-primary">Take me there</a>
+						<a href="beginnersClimbing" class="btn btn-primary">Take me there</a>
 					</p>
 				</div>
 				<div class="col-lg-6 col-md-12">
 					<h3>Taster Session</h3>
-					<a href="tasterSession.php"><img class="card-img-top" src="assets/img/tasterSession700x400.jpg" alt=""></a>
+					<a href="tasterSession"><img class="card-img-top" src="assets/img/tasterSession700x400.jpg" alt=""></a>
 					<p>
 						Looking for something new to have a go at? Then why not have a go at indoor rock climbing?
 						<br>
-						<a href="tasterSession.php" class="btn btn-primary">Take me there</a>
+						<a href="tasterSession" class="btn btn-primary">Take me there</a>
 					</p>
 				</div>
 			</div>

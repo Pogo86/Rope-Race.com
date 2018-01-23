@@ -35,7 +35,7 @@
 Taster sessions for all ages and abilities.</p>
             </div>
             <div class="card-footer">
-              <a href="tasterSession.php" class="btn btn-primary">Learn More</a>
+              <a href="tasterSession" class="btn btn-primary">Learn More</a>
             </div>
           </div>
         </div>
@@ -46,7 +46,7 @@ Taster sessions for all ages and abilities.</p>
               <p class="card-text">What could be better than you all spending your Sunday morning doing something new and exciting together with your family? Indoor rock climbing is fun, exciting, challenging and most of all absolutely brilliant for all ages and abilities.</p>
             </div>
             <div class="card-footer">
-              <a href="familyClimbing.php" class="btn btn-primary">Learn More</a>
+              <a href="familyClimbing" class="btn btn-primary">Learn More</a>
             </div>
           </div>
         </div>

@@ -50,7 +50,7 @@
   </url>
 
   <url>
-    <loc>http://www.roperace.com/climbFit</loc>
+    <loc>http://www.roperace.com/climbFit.php</loc>
     <lastmod>2018-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -148,7 +148,7 @@
   </url>
 
   <url>
-    <loc>http://www.roperace.com/zipWire</loc>
+    <loc>http://www.roperace.com/zipWire.php</loc>
     <lastmod>2018-01-01</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
