@@ -8,10 +8,10 @@
 		</ol>
 		<div class="carousel-inner" role="listbox">
 			<!-- Slide One - Set the background image for this slide in the line below -->
-			<a href="beginnersClimbing" class="carousel-item active" style="background-image: url('assets/img/sliders/homeSlide_learnToClimb.jpg')">
+			<a href="holidayClub.php" class="carousel-item active" style="background-image: url('assets/img/sliders/homeSlide_adventureClub.jpg')">
 				<div class="carousel-caption d-none d-md-block">
-					<h3>Learn to Climb</h3>
-					<p>4 week course that will teach you all you need to know.</p>
+					<h3></h3>
+					<p></p>
 				</div>
 			</a>
 			<!-- Slide Two - Set the background image for this slide in the line below -->
@@ -22,7 +22,7 @@
 				</div>
 			</a>
 			<!-- Slide Three - Set the background image for this slide in the line below -->
-			<a href="adultClimbing" class="carousel-item" style="background-image: url(assets/img/sliders/homeSlide_fit2018.jpg)">
+			<a href="adultClimbing" class="carousel-item" style="background-image: url(assets/img/sliders/homeSlide_learnToClimb.jpg)">
 				<div class="carousel-caption d-none d-md-block">
 					<h3></h3>
 					<p></p>

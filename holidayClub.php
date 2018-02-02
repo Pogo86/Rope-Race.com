@@ -21,7 +21,7 @@
     <div class="container">
     	<!-- Page Heading/Breadcrumbs -->
       	<h1 class="mt-4 mb-3">School Holidays Adventure Club
-        	<!--<small>December 20<sup>th</sup> - December 29<sup>th</sup></small>-->
+        	<small>February 19<sup>th</sup> - February 23<sup>rd</sup></small>
       	</h1>
       	
       	<ol class="breadcrumb">
