@@ -61,7 +61,8 @@
 					<br>We will teach you all you need to know about shooting a recurve bow safely, from holding the bow correctly, use of the arm guard, loading the arrows in the correct position and getting the most out of learning to shoot.
 					<br><strong>The Cost</strong>
 					<br>The cost for the archery club is £10.00 per person, this includes all the instruction and equipment. 
-					<br>Suitable for ages 16+
+					<br>Suitable for ages 16+ 
+					<br>Runs Thursday evenings from 7:00-8:00
 					<br>Private sessions can be booked for the prices below
 					<br>Suitable for ages 8+
 				</p>

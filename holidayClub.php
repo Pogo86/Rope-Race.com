@@ -21,7 +21,7 @@
     <div class="container">
     	<!-- Page Heading/Breadcrumbs -->
       	<h1 class="mt-4 mb-3">School Holidays Adventure Club
-        	<small>February 19<sup>th</sup> - February 23<sup>rd</sup></small>
+        	<small>April 3<sup>rd</sup> - April 18<sup>th</sup></small>
       	</h1>
       	
       	<ol class="breadcrumb">
@@ -52,7 +52,7 @@
       			Our full day's activities starts at 10:00 am (early morning drop off also available) with a quick introduction of everyone and a few teambuilding games then off onto the activity.
 				<br>Everyday we run indoor rock climbing, indoor archery and geocaching session. Plus once a week usually Thursday we will be going outdoor rock climbing to a local crag.
 				<br>All our indoor climbing sessions are suitable for anyone over the age of 6 years, archery outdoor climbing and geocaching from 8 years old.
-				<br>For anyone staying all day lunch will be between 12:00 noon and 1:00. Pack lunches can be order here from Rope Race for an additional cost or bring your own treats and snacks.
+				<br>For anyone staying all day lunch will be between 12:00 noon and 1:00. Pack lunches can be ordered here from Rope Race for an additional cost or bring your own treats and snacks.
 				<br>All you need to to do is ring or contact us and book a session or a full day.
      			<br><br>
       		</div>
@@ -83,14 +83,14 @@
       			</tr>
       			<tr>
       				<td>Wednesday</td>
-      				<td>Geocaching</td>
+      				<td>Climbing</td>
       				<td>Lunch</td>
       				<td>Archery</td>
       				<td>Climbing</td>
       			</tr>
       			<tr>
       				<td>Thursday</td>
-      				<td>Climbing</td>
+      				<td>Geocaching</td>
       				<td>Lunch</td>
       				<td>Archery</td>
       				<td>Climbing</td>
@@ -100,7 +100,7 @@
       				<td>Climbing</td>
       				<td>Lunch</td>
       				<td>Archery</td>
-      				<td>Geocaching</td>
+      				<td>Climbing</td>
       			</tr>      			
       		</table>
       		<br><br>

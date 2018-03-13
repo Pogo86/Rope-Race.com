@@ -23,7 +23,7 @@
 
       <!-- Page Heading/Breadcrumbs -->
       <h1 class="mt-4 mb-3">Mobile Climbing Wall
-        <small> The perfct centre piece for your event!</small>
+        <small> The perfect centre piece for your event!</small>
       </h1>
 
       <ol class="breadcrumb">

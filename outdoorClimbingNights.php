@@ -1,5 +1,5 @@
 <?php $title= "Outdoor Climbing Nights - Rope Race Climbing Centre";?>
-<?php $metaDescription= "Our Outdoor climbing nights are the best way to start your outdoor climbing experience<br>We go climbing all over the Peak District and beyond visiting some of the best crags in the world!";?>
+<?php $metaDescription= "Our Outdoor climbing nights are the best way to start your outdoor climbing experience <br>We go climbing all over the Peak District and beyond visiting some of the best crags in the world!";?>
 <?php require_once(dirname(__FILE__).'/header.php');?>
 
 <!doctype html>
