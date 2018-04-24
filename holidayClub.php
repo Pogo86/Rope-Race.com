@@ -21,7 +21,7 @@
     <div class="container">
     	<!-- Page Heading/Breadcrumbs -->
       	<h1 class="mt-4 mb-3">School Holidays Adventure Club
-        	<small>March 27<sup>th</sup> - April 18<sup>th</sup></small>
+        	<small>April 3<sup>rd</sup> - April 18<sup>th</sup></small>
       	</h1>
       	
       	<ol class="breadcrumb">
