@@ -1,79 +1,31 @@
-<?php $title= "Rope Race Climbing Centre";
-?>
+<?php $title= "Rope Race Climbing Centre Contact Details";?>
+<?php $metaDescription= "Need to contact us? All our information is here, call 0161 426 0226 or email contact@roperace.co.uk";?>
+<?php $groupTag="Misc";?>
 <?php require_once(dirname(__FILE__).'/header.php');?>
 
-    <!-- Page Content -->
-    <div class="container">
+<!doctype html>
+<html lang="en">
+	<!-- Page Content -->
+	<div class="container">
 
-      <!-- Page Heading/Breadcrumbs -->
-      <h1 class="mt-4 mb-3">Pricing
-        <small>Subheading</small>
-      </h1>
+		<!-- Page Heading/Breadcrumbs -->
+		<h1 class="mt-4 mb-3">Contact
+			<small> &amp; about us</small>
+		</h1>
 
-      <ol class="breadcrumb">
-        <li class="breadcrumb-item">
-          <a href="../../index.html">Home</a>
-        </li>
-        <li class="breadcrumb-item active">Pricing</li>
-      </ol>
+		<ol class="breadcrumb">
+			<li class="breadcrumb-item">
+          <a href="<?php home_url();?>">Home</a>
+			</li>
+			<li class="breadcrumb-item active">Pricing</li>
+		</ol>
 
-      <!-- Content Row -->
-      <div class="row">
-        <div class="col-lg-4 mb-4">
-          <div class="card h-100">
-            <h3 class="card-header">Basic</h3>
-            <div class="card-body">
-              <div class="display-4">$19.99</div>
-              <div class="font-italic">per month</div>
-            </div>
-            <ul class="list-group list-group-flush">
-              <li class="list-group-item">Cras justo odio</li>
-              <li class="list-group-item">Dapibus ac facilisis in</li>
-              <li class="list-group-item">Vestibulum at eros</li>
-              <li class="list-group-item">
-                <a href="#" class="btn btn-primary">Sign Up!</a>
-              </li>
-            </ul>
-          </div>
-        </div>
-        <div class="col-lg-4 mb-4">
-          <div class="card card-outline-primary h-100">
-            <h3 class="card-header bg-primary text-white">Plus</h3>
-            <div class="card-body">
-              <div class="display-4">$39.99</div>
-              <div class="font-italic">per month</div>
-            </div>
-            <ul class="list-group list-group-flush">
-              <li class="list-group-item">Cras justo odio</li>
-              <li class="list-group-item">Dapibus ac facilisis in</li>
-              <li class="list-group-item">Vestibulum at eros</li>
-              <li class="list-group-item">
-                <a href="#" class="btn btn-primary">Sign Up!</a>
-              </li>
-            </ul>
-          </div>
-        </div>
-        <div class="col-lg-4 mb-4">
-          <div class="card h-100">
-            <h3 class="card-header">Ultra</h3>
-            <div class="card-body">
-              <div class="display-4">$159.99</div>
-              <div class="font-italic">per month</div>
-            </div>
-            <ul class="list-group list-group-flush">
-              <li class="list-group-item">Cras justo odio</li>
-              <li class="list-group-item">Dapibus ac facilisis in</li>
-              <li class="list-group-item">Vestibulum at eros</li>
-              <li class="list-group-item">
-                <a href="#" class="btn btn-primary">Sign Up!</a>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <!-- /.row -->
-
-    </div>
-    <!-- /.container -->
-
-<?php require_once(dirname(__FILE__).'/footer.php');?>
+		<div class="row">
+			<div class="col-lg-12">
+				<h3>About Us</h3>
+				
+			</div>
+		</div>
+	</div>
+	<!-- /.container -->
+	<?php require_once(dirname(__FILE__).'/footer.php');?>

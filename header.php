@@ -39,9 +39,6 @@
 					<li class="nav-item">
 						<a class="nav-link" href="kidsClimbing">Kids Climbing</a>
 					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="contact">Contact</a>
-					</li>
 					<li class="nav-item dropdown">
 						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contact &amp; Prices</a>
 						<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
