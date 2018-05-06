@@ -43,6 +43,13 @@
 						<a class="nav-link" href="contact">Contact</a>
 					</li>
 					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contact &amp; Prices</a>
+						<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
+							<a class="dropdown-item" href="contact">Contact</a>
+							<a class="dropdown-item" href="pricing">Prices</a>
+						</div>
+					</li>
+					<li class="nav-item dropdown">
 						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Charity &amp; Events</a>
 						<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
 							<a class="dropdown-item" href="mobileClimbingWall">Mobile Climbing Wall</a>
