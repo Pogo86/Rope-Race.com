@@ -4,11 +4,11 @@
 			<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
 			<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
 			<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-<!--		<li data-target="#carouselExampleIndicators" data-slide-to="3"></li> -->
+			<li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
 		</ol>
 		<div class="carousel-inner" role="listbox">
 			<!-- Slide One - Set the background image for this slide in the line below -->
-			<a href="outdoorClimbingNights.php" class="carousel-item active" style="background-image: url('assets/img/sliders/homeSlide_OutdoorClimbing.jpg')">
+			<a href="holidayClub" class="carousel-item active" style="background-image: url('assets/img/sliders/homeSlide_adventureClub.jpg')">
 				<div class="carousel-caption d-none d-md-block">
 					<h3></h3>
 					<p></p>
@@ -23,6 +23,13 @@
 			</a>
 			<!-- Slide Three - Set the background image for this slide in the line below -->
 			<a href="adultClimbing" class="carousel-item" style="background-image: url(assets/img/sliders/homeSlide_learnToClimb.jpg)">
+				<div class="carousel-caption d-none d-md-block">
+					<h3></h3>
+					<p></p>
+				</div>
+			</a>
+			<!-- Slide Four - Set the background image for this slide in the line below -->
+			<a href="outdoorClimbingNights" class="carousel-item" style="background-image: url(assets/img/sliders/homeSlide_OutdoorClimbing.jpg)">
 				<div class="carousel-caption d-none d-md-block">
 					<h3></h3>
 					<p></p>

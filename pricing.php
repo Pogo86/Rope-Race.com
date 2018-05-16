@@ -23,8 +23,9 @@
 		<div class="row">
 			<div class="col-lg-12">
 				<div id="accordion">
-					<?php require_once(dirname(__FILE__).'/pricingMP.php');?>
-					<?php require_once(dirname(__FILE__).'/pricingDE.php');?>
+					<?php require_once(dirname(__FILE__).'/pricingMembership.php');?>
+					<?php require_once(dirname(__FILE__).'/pricingDaily.php');?>
+					<?php require_once(dirname(__FILE__).'/pricingGroups.php');?>
 				</div>
 			</div>
 		</div>
