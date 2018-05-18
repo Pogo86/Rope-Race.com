@@ -53,6 +53,10 @@
 								<td>Full Kit</td>
 								<td colspan="2" align="right">£5.00</td>
 							</tr>
+							<tr>
+								<td>Lunchtime Climbing<br /><small>Weekdays 11:30 - 14:00</small></td>
+								<td colspan="2" align="right">£4.00</td>
+							</tr>
 						</tbody>
 					</table>							
 				</div>

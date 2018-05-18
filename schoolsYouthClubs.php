@@ -22,8 +22,8 @@
     <div class="container">
 
       <!-- Page Heading/Breadcrumbs -->
-      <h1 class="mt-4 mb-3">Geckos Climbing Club
-        <small>Lessons for children to learn the ropes</small>
+      <h1 class="mt-4 mb-3">Schools &amp; Youth Groups
+        <br /><small>Get your group active and doing something new</small>
       </h1>
 
       <ol class="breadcrumb">

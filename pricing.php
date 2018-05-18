@@ -26,6 +26,8 @@
 					<?php require_once(dirname(__FILE__).'/pricingMembership.php');?>
 					<?php require_once(dirname(__FILE__).'/pricingDaily.php');?>
 					<?php require_once(dirname(__FILE__).'/pricingGroups.php');?>
+					<?php require_once(dirname(__FILE__).'/pricingAdultLessons.php');?>		
+					<?php require_once(dirname(__FILE__).'/pricingChildLessons.php');?>
 				</div>
 			</div>
 		</div>
