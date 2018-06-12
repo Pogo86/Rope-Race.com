@@ -54,7 +54,7 @@
                 <a href="rockAcademy">Rock Academy Team</a>
               </li>
               <li>
-                <a href="miniMonkeys">Mini Mokeys Climbing Club</a>
+                <a href="miniMonkeys">Mini Monkeys Climbing Club</a>
               </li>
               <li>
                 <a href="holidaysClub">School Holiday Adventure Club</a>
@@ -76,7 +76,7 @@
               	<a href="abseils">Abseil Events</a>
               </li>
               <li>
-              	<a href="zipWires">Aip Wire Events</a>
+              	<a href="zipWires">Zip Wire Events</a>
               </li>
               <li>
               	<a href="indoorCharityEvents">Indoor Charity Events</a>

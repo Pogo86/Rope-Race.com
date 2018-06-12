@@ -20,8 +20,8 @@
 	<!-- Page Content -->
     <div class="container">
     	<!-- Page Heading/Breadcrumbs -->
-      	<h1 class="mt-4 mb-3">School Holidays Adventure Club
-        	<small>May 29<sup>th</sup> - June 8<sup>th</sup></small>
+      	<h1 class="mt-4 mb-3">School Summer Holidays Adventure Club
+        	<small>July 24<sup>th</sup> - August 31<sup>st</sup></small>
       	</h1>
       	
       	<ol class="breadcrumb">

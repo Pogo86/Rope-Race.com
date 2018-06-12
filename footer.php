@@ -49,7 +49,7 @@
 						<td><a href="assets/termsandconditions.pdf" style="color:whitesmoke">Terms &amp; Conditions</a></td>
 					</tr>
 				</table>
-        		<p class="m-0 text-center text-white">Copyright &copy; Notebook Design Studio 2017</p>
+				<p class="m-0 text-center text-white"><a href="www.notebookds.com">Copyright &copy; Notebook Design Studio 2017</a></p>
       		</div>
       		<!-- /.container -->
     	</footer>
