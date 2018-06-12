@@ -69,10 +69,11 @@
       	</div>
       </div>
       <!-- /.row -->
+
 		<!-- Also Like Links -->    
 		<?php require_once(dirname(__FILE__).'/alsoLike.php');?>
-
-    </div>
+		<?php require_once(dirname(__FILE__).'/kidsSignup.php');?>    
+	</div>
     <!-- /.container -->
 
 <?php require_once(dirname(__FILE__).'/footer.php');?>

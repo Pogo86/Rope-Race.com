@@ -78,7 +78,6 @@
       <!-- /.row -->
 		<!-- Also Like Links -->    
 		<?php require_once(dirname(__FILE__).'/alsoLike.php');?>
-
     </div>
     <!-- /.container -->
 
