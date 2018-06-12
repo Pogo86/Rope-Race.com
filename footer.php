@@ -43,6 +43,12 @@
 		 		</div>
 			</div>
       		<div class="container">
+				<table width="90%" align="center">
+					<tr>
+						<td><a href="privacy.php" style="color:whitesmoke">Privacy Policy</a></td>
+						<td><a href="assets/termsandconditions.pdf" style="color:whitesmoke">Terms &amp; Conditions</a></td>
+					</tr>
+				</table>
         		<p class="m-0 text-center text-white">Copyright &copy; Notebook Design Studio 2017</p>
       		</div>
       		<!-- /.container -->

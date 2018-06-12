@@ -2,7 +2,7 @@
 	<div class="card-header" id="headingFive">
 		<h5 class="mb-0">
 			<button class="btn btn-link" data-toggle="collapse" data-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
-			Adult Lessons
+			Under 18's Lessons
 			</button>
 		</h5>
 	</div>

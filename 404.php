@@ -31,7 +31,7 @@
             Adult Climbing
             <ul>
               <li>
-                <a href="tasterSession">Tater Climbing Session</a>
+                <a href="tasterSession">Taster Climbing Session</a>
               </li>
               <li>
                 <a href="beginnersClimbing">Beginners Climbing Course</a>
