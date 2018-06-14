@@ -1,4 +1,4 @@
-<?php $title= "Archry at Rope Race Climbing Centre";?>
+<?php $title= "Archery at Rope Race Climbing Centre";?>
 <?php $metaDescription= "";?>
 <?php $groupTag="Misc";?>
 <!-- Also Like Links & imgs -->
