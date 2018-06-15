@@ -62,7 +62,7 @@
       	</div>
  	<div class="row">
     	<div class="col-md-12">
-     		<h3>Sample Programme</h3>
+     		<h3>Programme</h3>
       		<table width="100%">
       			<th>
       				<td>10:00 - 12:00</td>
@@ -78,7 +78,7 @@
       				<td>Climbing</td>
       			</tr>
       			<tr>
-      				<td>Tuedsday</td>
+      				<td>Tuesday</td>
       				<td>Climbing</td>
       				<td>Lunch</td>
       				<td>Archery</td>
