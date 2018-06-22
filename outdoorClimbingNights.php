@@ -23,7 +23,7 @@
       </ol>
       
       <div class="row">
-        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+        <!-- <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
           <div class="card h-100">
             <a><img class="card-img-top" src="assets/img/windgatherRocks700x400.jpg" alt="Windgather Rocks - Rope Race Climbing"></a>
             <div class="card-body">
@@ -123,8 +123,68 @@
               <a href="https://www.google.com/maps/place/53%C2%B019'01.2%22N+1%C2%B037'25.0%22W/@53.317,-1.6257887,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d53.317!4d-1.6236">Map Link</a>
             </div>
           </div>
+        </div> -->
+		<div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <a><img class="card-img-top" src="assets/img/froggattEdge700x400.jpg" alt="Froggatt Edge- Rope Race Climbing"></a>
+            <div class="card-body">
+              <h4 class="card-title">
+				  <a>Froggatt Edge<small><br>Tuesday 26<sup>th</sup> June</small></a>
+              </h4>
+              <p class="card-text">The main edge is a virtually continuous face of exceptionally clean and quick-drying rock of the highest quality up to 17m high. Both natural and quarried buttress exist, giving a variety of climbing styles, although the edge is home to some of the best slab climbing in the country.</p>
+              <a href="https://goo.gl/maps/XaJ3tM7Bu4E2">Map Link</a>
+            </div>
+          </div>
         </div>
-		<p align="center">
+		<div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+		  <div class="card h-100">
+			<a><img class="card-img-top" src="assets/img/hobsonMoorQuarry700x400.jpg" alt="Hobson Moor Quarry - Rope Race Climbing"></a>
+			<div class="card-body">
+			  <h4 class="card-title">
+				  <a>Hobson Moor Quarry <small><br>Tuesday 3<sup>rd</sup> July</small></a>
+			  </h4>
+			  <p class="card-text">A pleasant (for a quarry!) climbing ground with easy access and good 'crack' with the locals. Mostly good rock on the right side of vertical! Routes mainly VS and above approx 15 - 20m long.</p>
+			  <a href="https://goo.gl/maps/BnVYX7B4c8C2">Map Link</a>
+			</div>
+		  </div>
+		</div>
+		  <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+		  <div class="card h-100">
+			<a><img class="card-img-top" src="assets/img/roaches700x400.jpg" alt="The Roaches - Rope Race Climbing"></a>
+			<div class="card-body">
+			  <h4 class="card-title">
+				  <a>The Roaches <small><br>Tuesday 10<sup>th</sup> July</small></a>
+			  </h4>
+			  <p class="card-text">Big, popular and well-worn with routes up to 30m long at all grades. More open than the Lower Tier and, except for the left-hand end, usually in condition throughout the year. Many classics to choose from (even multi-pitch) in fine positions!</p>
+			  <a href="https://goo.gl/maps/E4USPKafbVt">Map Link</a>
+			</div>
+		  </div>
+		</div>
+		  <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+		  <div class="card h-100">
+			<a><img class="card-img-top" src="assets/img/alderyCliff700x400.jpg" alt="Aldery Cliff - Rope Race Climbing"></a>
+			<div class="card-body">
+			  <h4 class="card-title">
+				  <a>Aldery Cliff <small><br>Tuesday 17<sup>th</sup> July</small></a>
+			  </h4>
+			  <p class="card-text">A popular crag, unique for its slabby nature in a pleasant, shltered location. Most climbs are VS/HVS on good, sometimes polished rock, up to 35m high.</p>
+			  <a href="https://www.google.com/maps?q=53.19400,-1.85510">Map Link</a>
+			</div>
+		  </div>
+		</div>
+		  <!--<div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+		  <div class="card h-100">
+			<a><img class="card-img-top" src="http://via.placeholder.com/700x400" alt="Windgather Rocks - Rope Race Climbing"></a>
+			<div class="card-body">
+			  <h4 class="card-title">
+				  <a>Windgather Rocks<small><br>Tuesday 1<sup>st</sup> May</small></a>
+			  </h4>
+			  <p class="card-text">A beginner-friendly crag amply provided with square-cut jugs and picnic spots. Good quality, well travelled gritstone. Generally easy, slabby climbs popular with beginners.</p>
+			  <a href="#">Map Link</a>
+			</div>
+		  </div>
+		</div>-->
+		  <p align="center">
 			<a href="tel:01614260226" class="btn btn-primary">Call &amp; Book Now</a>
 		</p>
       </div>
