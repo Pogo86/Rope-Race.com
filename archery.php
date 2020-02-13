@@ -1,5 +1,5 @@
 <?php $title= "Archery at Rope Race Climbing Centre";?>
-<?php $metaDescription= "";?>
+<?php $metaDescription= "Archery courses for any group, any ability and any size. Our professional instructors will teach you everything you need to know to have a fun safe session and hopefully hit some bullseyes.";?>
 <?php $groupTag="Misc";?>
 <!-- Also Like Links & imgs -->
 <?php $alsoLikeLink1="beginnersClimbing";?>
@@ -60,90 +60,18 @@
 					<strong>How it works</strong>
 					<br>We will teach you all you need to know about shooting a recurve bow safely, from holding the bow correctly, use of the arm guard, loading the arrows in the correct position and getting the most out of learning to shoot.
 					<br><strong>The Cost</strong>
-					<br>The cost for the archery club is £10.00 per person, this includes all the instruction and equipment. 
-					<br>Suitable for ages 16+ 
-					<br>Runs Thursday evenings from 7:00-8:00
-					<br>Private sessions can be booked for the prices below
-					<br>Suitable for ages 8+
+					<h4>Group Sessions</h4>
+					£10.00 for 2 people - Groups up to 6 people. Saturdays 1:00 - 2:00 & Sundays 2:00 - 3:00
+					<h4>Private Sessions</h4>
+					2 people - £25.00
+					<br>3 people - £35.00
+					<br>4 people - £45.00
+					<br>Can e booked at any time.
 				</p>
+
 			</div>
 		</div>
-		<!-- /.row -->
-		<!-- Content Row -->
-		<div class="row">
-			<div class="col-lg-3 mb-3">
-				<div class="card h-100">
-					<h3 class="card-header">1 Person</h3>
-					<div class="card-body">
-						<div class="display-4">£20.00</div>
-						<div class="font-italic">per hour</div>
-					</div>
-					<!--<ul class="list-group list-group-flush">
-						<li class="list-group-item">Cras justo odio</li>
-						<li class="list-group-item">Dapibus ac facilisis in</li>
-						<li class="list-group-item">Vestibulum at eros</li>
-						<li class="list-group-item">
-						<a href="#" class="btn btn-primary">Sign Up!</a>
-					</li>
-					</ul>-->
-				</div>
-			</div>
-			<div class="col-lg-3 mb-3">
-				<div class="card h-100">
-					<h3 class="card-header">2 People</h3>
-					<div class="card-body">
-						<div class="display-4">£35.00</div>
-						<div class="font-italic">per hour</div>
-					</div>
-					<!--<ul class="list-group list-group-flush">
-						<li class="list-group-item">Cras justo odio</li>
-						<li class="list-group-item">Dapibus ac facilisis in</li>
-						<li class="list-group-item">Vestibulum at eros</li>
-						<li class="list-group-item">
-							<a href="#" class="btn btn-primary">Sign Up!</a>
-						</li>
-					</ul>-->
-				</div>
-			</div>
-			<div class="col-lg-3 mb-3">
-				<div class="card h-100">
-					<h3 class="card-header">3 People</h3>
-					<div class="card-body">
-						<div class="display-4">£55.00</div>
-						<div class="font-italic">per hour</div>
-					</div>
-					<!--<ul class="list-group list-group-flush">
-						<li class="list-group-item">Cras justo odio</li>
-						<li class="list-group-item">Dapibus ac facilisis in</li>
-						<li class="list-group-item">Vestibulum at eros</li>
-						<li class="list-group-item">
-							<a href="#" class="btn btn-primary">Sign Up!</a>
-						</li>
-					</ul>-->
-				</div>
-			</div>
-			<div class="col-lg-3 mb-3">
-				<div class="card h-100">
-					<h3 class="card-header">Extra Person</h3>
-					<div class="card-body">
-						<div class="display-4">£15.00</div>
-						<div class="font-italic">per hour</div>
-					</div>
-					<!--<ul class="list-group list-group-flush">
-						<li class="list-group-item">Cras justo odio</li>
-						<li class="list-group-item">Dapibus ac facilisis in</li>
-						<li class="list-group-item">Vestibulum at eros</li>
-						<li class="list-group-item">
-							<a href="#" class="btn btn-primary">Sign Up!</a>
-						</li>
-					</ul>-->
-				</div>
-			</div>
-			<p align="center">
-				<a href="tel:01614260226" class="btn btn-primary">Call &amp; Book Now</a>
-			</p>
-		</div>
-		<!-- /.row -->    
+		<!-- /.row --> 
 
 		<!-- Also Like Links -->    
 		<?php require_once(dirname(__FILE__).'/alsoLike.php');?>

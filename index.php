@@ -52,9 +52,9 @@ Taster sessions for all ages and abilities.</p>
         </div>
       </div>
       <!-- /.row -->
-
+		  <?php require_once(dirname(__FILE__).'/index_video.php');?>
       <!-- Mini Links Section -->
-		<?php require_once(dirname(__FILE__).'/indexMiniLinks.php');?>
+		  <?php require_once(dirname(__FILE__).'/indexMiniLinks.php');?>
       <!-- /.row -->
 
       <!-- Features Section --

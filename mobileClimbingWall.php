@@ -1,5 +1,5 @@
 <?php $title= "Mobile Climbing Wall - Rope Race Climbing Centre";?>
-<?php $metaDescription= "";?>
+<?php $metaDescription= "Professionally run mobile climbing wall events by qualified instructors. Suitable for any event. All instruction and equipment provided.";?>
 <?php $groupTag="Charity";?>
 <!-- Also Like Links & imgs -->
 <?php $alsoLikeLink1="abseils";?>
@@ -40,97 +40,25 @@
           <img class="img-fluid" src="/assets/img/mobileClimbingWall750x500.jpg" alt="">
         </div>
 
-        <div class="col-md-4">
-          <h3 class="my-3">Mobile Climbing Wall</h3>
-          <p>Looking for something new to have a go at? Then why not have a go at indoor rock climbing? Taster sessions for all ages and abilities.
-			  <br><strong>The Sessions</strong>
-          <br>Our taster sessions are the perfect way of getting into this exciting and exhilarating sport. With one of our friendly and experienced climbing instructors guiding you onto the walls. We have routes and walls suitable for all ages and abilities, so whether you're brand new to climbing, or have decided to start back after a break, a taster session is for you. Climbing Taster sessions are suitable for adults, family, friends and children.
-          </p>
-        </div>
+		<div class="col-md-4">
+			<h3 class="my-3">Mobile Climbing Wall</h3>
+			<p>With a huge growth in adventure sports our mobile rock climbing wall is just what your event is looking for, whether your event is a family fun day, a school event, corporate team building day or country show our mobile climbing wall will be perfect for you. The rock climbing wall has a textured finish and a variety of different coloured climbing holds.
+			<br>All our staff are experienced, qualified and professional instructors and we provide £5 million insurance cover along with risk assessments for your event.
+			<br>Rope Race Climbing and Activity Centre is a awarding and providing centre for the NICAS award, so why not include this new recognised award as part of your school outdoors curriculum and let us do the rest, we will arrange logbooks for each participant and our instructors run the climbing sessions at your site.
+			</p>
+		</div>
 
       </div>
       <div class="row">
       	<div class="col-md-12">
       		<p>
-      		<strong>How it works</strong>
-         	<br>Your instructor will introduce you to all the equipment you will be using during the session, this includes climbing harness and rock boots unless you want to wear your own rock shoes or trainers. 
-			<br>We start out on the easier slab walls for your first climbs. As you progress through your session, your instructor will help you select climbs that will be both challenging and enjoyable. Also, your instructor will be on hand to answer any questions and help you progress.
-     		</p>
+      		<strong>Specifications</strong>
+         	<br>The mobile rock climbing wall can be set up either on grass or a hard standing area and only requires a small area for the instructors to work in.
+			<br>When erected the rock climbing wall is 7.5 metres high and 2.5 metres wide.
+			</p>
       	</div>
       </div>
-      <!-- /.row -->
-<!-- Content Row -->
-      <div class="row">
-        <div class="col-lg-3 mb-3">
-          <div class="card h-100">
-            <h3 class="card-header">1 Person</h3>
-            <div class="card-body">
-              <div class="display-4">£20.00</div>
-              <div class="font-italic">per hour</div>
-            </div>
-            <ul class="list-group list-group-flush">
-              <li class="list-group-item">Cras justo odio</li>
-              <li class="list-group-item">Dapibus ac facilisis in</li>
-              <li class="list-group-item">Vestibulum at eros</li>
-              <li class="list-group-item">
-                <a href="#" class="btn btn-primary">Sign Up!</a>
-              </li>
-            </ul>
-          </div>
-        </div>
-        <div class="col-lg-3 mb-3">
-          <div class="card h-100">
-            <h3 class="card-header">2 People</h3>
-            <div class="card-body">
-              <div class="display-4">£35.00</div>
-              <div class="font-italic">per hour</div>
-            </div>
-            <ul class="list-group list-group-flush">
-              <li class="list-group-item">Cras justo odio</li>
-              <li class="list-group-item">Dapibus ac facilisis in</li>
-              <li class="list-group-item">Vestibulum at eros</li>
-              <li class="list-group-item">
-                <a href="#" class="btn btn-primary">Sign Up!</a>
-              </li>
-            </ul>
-          </div>
-        </div>
-        <div class="col-lg-3 mb-3">
-          <div class="card h-100">
-            <h3 class="card-header">3 People</h3>
-            <div class="card-body">
-              <div class="display-4">£55.00</div>
-              <div class="font-italic">per hour</div>
-            </div>
-            <ul class="list-group list-group-flush">
-              <li class="list-group-item">Cras justo odio</li>
-              <li class="list-group-item">Dapibus ac facilisis in</li>
-              <li class="list-group-item">Vestibulum at eros</li>
-              <li class="list-group-item">
-                <a href="#" class="btn btn-primary">Sign Up!</a>
-              </li>
-            </ul>
-          </div>
-        </div>
-        <div class="col-lg-3 mb-3">
-          <div class="card h-100">
-            <h3 class="card-header">Extra Person</h3>
-            <div class="card-body">
-              <div class="display-4">£15.00</div>
-              <div class="font-italic">per hour</div>
-            </div>
-            <ul class="list-group list-group-flush">
-              <li class="list-group-item">Cras justo odio</li>
-              <li class="list-group-item">Dapibus ac facilisis in</li>
-              <li class="list-group-item">Vestibulum at eros</li>
-              <li class="list-group-item">
-                <a href="#" class="btn btn-primary">Sign Up!</a>
-              </li>
-            </ul>
-          </div>
-        </div>        
-        </div>
-      <!-- /.row -->      
+      <!-- /.row -->    
 		<!-- Also Like Links -->    
 		<?php require_once(dirname(__FILE__).'/alsoLike.php');?>
 

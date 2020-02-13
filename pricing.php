@@ -1,5 +1,5 @@
-<?php $title= "Rope Race Climbing Centre Contact Details";?>
-<?php $metaDescription= "Need to contact us? All our information is here, call 0161 426 0226 or email contact@roperace.co.uk";?>
+<?php $title= "Rope Race Climbing Centre Pricesf";?>
+<?php $metaDescription= "Prices for everything, If it's not here call on 0161 426 0226.";?>
 <?php $groupTag="Misc";?>
 <?php require_once(dirname(__FILE__).'/header.php');?>
 
@@ -9,9 +9,7 @@
 	<div class="container">
 
 		<!-- Page Heading/Breadcrumbs -->
-		<h1 class="mt-4 mb-3">Contact
-			<small> &amp; about us</small>
-		</h1>
+		<h1 class="mt-4 mb-3">Pricing</h1>
 
 		<ol class="breadcrumb">
 			<li class="breadcrumb-item">

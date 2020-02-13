@@ -1,0 +1,47 @@
+.btn-buyNow {
+    color: #000;
+    background-color: #FF9900;
+    border-color: #000;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.btn-buyNow:hover {
+    color: #000;
+    background-color: #D58000;
+    border-color: #FFAA2A;
+}
+.centre-btn{
+    text-align: center;
+}
+.footerImg{
+    max-width: 40vw;
+}
+.hC-highlight{
+    background-color: #dcdcdd;
+}
+.hc-sub-btn{
+    color: #fff;
+    background-color: #893168;
+    font-size: 13px;
+    border: none;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    letter-spacing: .03em;
+    box-sizing: border-box;
+    height: 32px;
+    line-height: 32px;
+    padding: 0 18px;
+    display: inline-block;
+    margin: 0;
+    transition: all 0.23s ease-in-out 0s;
+}
+.hc-sub-btn:hover {
+    background-color: #6F2754;
+}
+@media (min-width:992px){
+    .footerImg{
+        max-width: 10vw;
+    }
+}

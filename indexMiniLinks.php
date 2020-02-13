@@ -23,7 +23,7 @@
 	</div>
 	<div class="col-lg-4 col-sm-6 portfolio-item">
 		<div class="card h-100">
-			<a href="mobileClimbingWall"><img class="card-img-top" src="assets/img/mobileClimbingWall700x400.jpg" src="assets/img/mobileClimbingWall348x199.jpg x1, assets/img/mobileClimbingWall700x400.jpg x2" alt="Profetional Mobile Climbing Wall fore Events and Charities"></a>
+			<a href="mobileClimbingWall"><img class="card-img-top" src="assets/img/mobileClimbingWall700x400.jpg" alt="Profetional Mobile Climbing Wall fore Events and Charities"></a>
 			<div class="card-body">
 				<h4 class="card-title">
 					<a href="mobileClimbingWall">Mobile Climbing Wall</a>
@@ -43,7 +43,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="col-lg-4 col-sm-6 portfolio-item">
+	<!--<div class="col-lg-4 col-sm-6 portfolio-item">
 		<div class="card h-100">
 			<a href="functionRoom"><img class="card-img-top" src="assets/img/fRoom700x400.jpg" alt="Private Function Room Hire Marple Stockport Manchester"></a>
 			<div class="card-body">
@@ -53,7 +53,7 @@
 				<p class="card-text">Need somewhere to host your event, class or meeting? We offer a beautiful, light and spacious room, situated on the top floor of our climbing centre with magnificent views over to North Wales and Greater Manchester. </p>
 			</div>
 		</div>
-	</div>
+	</div>-->
 	<div class="col-lg-4 col-sm-6 portfolio-item">
 		<div class="card h-100">
 			<a href="holidayClub"><img class="card-img-top" src="assets/img/schoolHolidays700x400.jpg" alt="School Holiday Adventure Club"></a>

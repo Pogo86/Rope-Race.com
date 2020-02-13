@@ -1,5 +1,5 @@
 <?php $title= "Indoor Charity Events - Rope Race Climbing Centre";?>
-<?php $metaDescription= "";?>
+<?php $metaDescription= "Raise money for your charity by climbing the height of Beetham Tower, Ben Nevis or Kilimanjaro as a team. A brilliant way to come together as a team and achieve something great.";?>
 <?php $groupTag="Charity";?>
 <!-- Also Like Links & imgs -->
 <?php $alsoLikeLink1="mobileClimbingWall";?>

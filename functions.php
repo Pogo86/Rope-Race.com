@@ -33,6 +33,30 @@ function the_meta_description(){
 	
 	echo $metaDescription;
 }
+//Linked Pages
+function canonical(){
+	global $canonical;
+	
+	echo $canonical;
+}
+//Social Title
+function og_title(){
+	global $og_title;
+	
+	echo $og_title;
+}
+//Social Description
+function og_description(){
+	global $og_description;
+	
+	echo $og_description;
+}
+//Social URL
+function og_url(){
+	global $og_url;
+	
+	echo $og_url;
+}
 
 //also like link & IMG 1
 function also_like_link_1(){

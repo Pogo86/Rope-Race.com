@@ -39,11 +39,11 @@
 							</tr>
 							<tr>
 								<td>10 Climb Pass</td>
-								<td colspan="2" align="right">£65.00</td>
+								<td colspan="2" align="right">£70.00</td>
 							</tr>
 							<tr>
 								<td>20 Climb Pass</td>
-								<td colspan="2" align="right">£125.00</td>
+								<td colspan="2" align="right">£130.00</td>
 							</tr>
 						</tbody>
 					</table>							

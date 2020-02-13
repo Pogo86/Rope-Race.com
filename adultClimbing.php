@@ -61,10 +61,10 @@
         </div>
         <div class="col-lg-6 portfolio-item">
           <div class="card h-100">
-            <a href="outdoorClimbingNights"><img class="card-img-top" src="/assets/img/outdoorClimbing700x400.jpg" alt="Outdoor climbing sessions"></a>
+            <a href="outdoorClimbing"><img class="card-img-top" src="/assets/img/outdoorClimbing700x400.jpg" alt="Outdoor climbing sessions"></a>
             <div class="card-body">
               <h4 class="card-title">
-                <a href="outdoorClimbingNights">Outdoor Climbing Nights</a>
+                <a href="outdoorClimbing">Outdoor Climbing</a>
               </h4>
               <p class="card-text">Get out on some real rock. All the set up and rope work is done for you so all you need to do is experiance some of the best rock in the world!</p>
             </div>

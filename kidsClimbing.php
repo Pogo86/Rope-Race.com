@@ -32,32 +32,10 @@
         </div>
         <div class="col-lg-6 portfolio-item">
           <div class="card h-100">
-            <a href="rockAcademy"><img class="card-img-top" src="/assets/img/rockAcademy700x400.jpg" alt="Rock Academy"></a>
-            <div class="card-body">
-              <h4 class="card-title">
-                <a href="rockAcademy">Rock Academy</a>
-              </h4>
-              <p class="card-text">A competition team for young climbers who want to push what they can do whilst climbing with like-minded young people</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-6 portfolio-item">
-          <div class="card h-100">
-            <a href="miniMonkeys"><img class="card-img-top" src="/assets/img/miniMonkeys700x400.jpg" alt="Mini Monkeys Climbing Club"></a>
-            <div class="card-body">
-              <h4 class="card-title">
-                <a href="miniMonkeys">Mini Monkeys Climbing Club</a>
-              </h4>
-              <p class="card-text">The Mini Monkeys came about due to the massive interest from parents who would like their children into climbing as soon as possible. The Mini Monkey sessions are specially designed for younger climbers focusing on a good warm up and then having fun whilst climbing.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-6 portfolio-item">
-          <div class="card h-100">
             <a href="holidayClub"><img class="card-img-top" src="/assets/img/schoolHolidays700x400.jpg" alt="School Holidays Adventure Club"></a>
             <div class="card-body">
               <h4 class="card-title">
-                <a href="holidaysClub">School Holidays Adventure Club</a>
+                <a href="holidayClub">School Holidays Adventure Club</a>
               </h4>
               <p class="card-text">Looking for something amazing and exciting for the kids to do during the school holidays?</p>
             </div>
@@ -73,7 +51,29 @@
               <p class="card-text">For your next Birthday party why not try something different and have the time of your life?</p>
             </div>
           </div>
+        </div>
+        <div class="col-lg-6 portfolio-item">
+          <div class="card h-100">
+            <a href="miniMonkeys"><img class="card-img-top" src="/assets/img/miniMonkeys700x400.jpg" alt="Mini Monkeys Climbing Club"></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="miniMonkeys">Mini Monkeys Climbing Club</a>
+              </h4>
+              <p class="card-text">The Mini Monkeys came about due to the massive interest from parents who would like their children into climbing as soon as possible. The Mini Monkey sessions are specially designed for younger climbers focusing on a good warm up and then having fun whilst climbing.</p>
+            </div>
+          </div>
         </div> 
+        <div class="col-lg-6 portfolio-item">
+          <div class="card h-100">
+            <a href="rockAcademy"><img class="card-img-top" src="/assets/img/rockAcademy700x400.jpg" alt="Rock Academy"></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="rockAcademy">Rock Academy</a>
+              </h4>
+              <p class="card-text">A competition team for young climbers who want to push what they can do whilst climbing with like-minded young people</p>
+            </div>
+          </div>
+        </div>
         <div class="col-lg-6 portfolio-item">
           <div class="card h-100">
             <a href="schoolsYouthClubs"><img class="card-img-top" src="/assets/img/schoolsYC700x400.jpg" alt="Schools & Youth Clubs"></a>
@@ -87,9 +87,6 @@
         </div>                  
         </div>
       <!-- /.row -->
-		<!-- Mail Chimp Signup form -->
-		<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us3.list-manage.com","uuid":"4ec276291962dfb9c021059be","lid":"1454dd3cf6"}) })</script>
-		<!-- /. MC signup form -->
     </div>
     <!-- /.container -->
 <?php require_once(dirname(__FILE__).'/footer.php');?>

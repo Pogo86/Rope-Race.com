@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+# Sitemap files
+Sitemap: http://www.roperace.com/sitemap.xml

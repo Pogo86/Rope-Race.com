@@ -1,5 +1,5 @@
 <?php $title= "Charity Abseils Events - Rope Race Climbing Centre";?>
-<?php $metaDescription= "";?>
+<?php $metaDescription= "We have provided professional charity abseils and events for over 15 years for charities of every size. Contact us now, and start organising your event today!";?>
 <?php $groupTag="Charity";?>
 <!-- Also Like Links & imgs -->
 <?php $alsoLikeLink1="mobileClimbingWall";?>

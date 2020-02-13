@@ -6,7 +6,7 @@
 			</button>
 		</h5>
 	</div>
-	<div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordion">
+	<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
 		<div class="card-body">
 			<div class="row">
 				<!-- img goes here -->
@@ -19,11 +19,11 @@
 						<tbody>
 							<tr>
 								<td>Adult <small>unsupervised</small></td>
-								<td colspan="2" align="right">£8.00</td>
+								<td colspan="2" align="right">£8.50</td>
 							</tr>
 							<tr>
 								<td>Student, Consession, OAP</td>
-								<td colspan="2" align="right">£7.00</td>
+								<td colspan="2" align="right">£7.50</td>
 							</tr>
 							<tr>
 								<td>Green Card</td>
@@ -31,7 +31,7 @@
 							</tr>
 							<tr>
 								<td>Child <small>with a competent adult climber</small></td>
-								<td colspan="2" align="right">£7.00</td>
+								<td colspan="2" align="right">£7.50</td>
 							</tr>
 							<tr>
 								<td>Climbing Shoes</td>

@@ -23,7 +23,7 @@
 
       <!-- Page Heading/Breadcrumbs -->
       <h1 class="mt-4 mb-3">Rock Academy
-        <small>Competition Climbinng Team</small>
+        <small>Competition Climbing Team</small>
       </h1>
 
       <ol class="breadcrumb">
@@ -70,7 +70,6 @@
       <!-- /.row -->
 		<!-- Also Like Links -->    
 		<?php require_once(dirname(__FILE__).'/alsoLike.php');?>
-		<?php require_once(dirname(__FILE__).'/kidsSignup.php');?>    
 	</div>
     <!-- /.container -->
 

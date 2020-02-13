@@ -16,7 +16,7 @@
     <link href="<?php home_url(); ?>assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="<?php home_url(); ?>assets/css/modern-business.css" rel="stylesheet">
+    <link href="<?php home_url(); ?>css/modern-business.css" rel="stylesheet">
 
   </head>
   

@@ -1,0 +1,332 @@
+<!doctype html>
+<html>
+<head>
+	<!-----------------    Load jquery   -------------------------------------------------------------------------------------->
+	<script src="https://code.jquery.com/jquery-3.3.1.min.js"integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="crossorigin="anonymous"></script>	
+	<!-----------------    Load bootstrap ------------------------------------------------------------------------------------->
+	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.bundle.min.js" integrity="sha384-pjaaA8dDz/5BgdFUPX6M/9SUZv4d12SUPF0axWc+VRZkx5xU3daN+lYb49+Ax+Tl" crossorigin="anonymous"></script>
+	<!-----------------    Load firebase -------------------------------------------------------------------------------------->
+	<script src="https://www.gstatic.com/firebasejs/5.4.2/firebase.js"></script>
+	<script>
+	  // Initialize Firebase
+	  var config = {
+		apiKey: "AIzaSyDSGwZ06G4F_yvbE9Br-LRgLVIv5N8qFHA",
+		authDomain: "roperaceroutes.firebaseapp.com",
+		databaseURL: "https://roperaceroutes.firebaseio.com",
+		projectId: "roperaceroutes",
+		storageBucket: "",
+		messagingSenderId: "834834709359"
+	  };
+	  firebase.initializeApp(config);
+	</script>
+	<!-----------------    Load Fusion Charts ---------------------------------------------------------------------------------><script src="https://static.fusioncharts.com/code/latest/fusioncharts.js"></script>
+	<!---    Head info	------------------------------------------------------------------------------------------------------->
+	<meta charset="UTF-8">
+	<title>Rope Race App - Add Route</title>
+</head>
+
+<body>
+	<!-- Button trigger modal -->
+	
+	<!--- Edit Modal -->
+	<div class="modal fade" id="editRoute" tabindex="-1" role="dialog">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title">Edit this Route</h5>
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+				</div>
+				<div class="modal-body">
+					<!---	Edit Route Form	---------------->
+					<div class="container" id="editRouteForm">
+						<div class="card">
+							<form>
+								<!---	Hidden route ID			--------->
+								<input type="hidden" class="form-control" id="routeID">
+								<!---	Edit Wall Number		--------->
+								<div class="form-group">
+									<label for="inputWallNumber">Wall Number</label>
+									<select class="form-control" id="editInputWallNumber">
+<option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="1">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option><option value="32">32</option><option value="33">33</option><option value="34">34</option>
+									</select>
+								</div>
+								<!---	Edit Route Colour	--------->
+								<div class="form-group">
+									<label for="inputRouteColour">Colour</label>
+									<select class="form-control" id="editInputRouteColour">
+<option value="black">Black</option><option value="blue">Blue</option><option value="green">Green</option><option value="greenWhite">Green &amp; White</option><option value="grey">Grey</option><option value="orange">Orange</option><option value="pink">Pink</option><option value="purple">Purple</option><option value="red">Red</option><option value="redGreen">Red &amp; Green</option><option value="redPink">Red &amp; Pink</option><option value="redYellow">Red &amp; Yellow</option><option value="RWB">Red White Blue</option><option value="sand">Sand</option><option value="white">White</option><option value="yellow">Yellow</option><option value="yellowOrange">Yellow &amp; Orange</option>
+									</select>
+								</div>
+								<!---	Edit Route Grade		--------->
+								<div class="form-group">
+									<label for="inputRouteGrade">Grade</label>
+									<select class="form-control" id="editInputRouteGrade">
+<option value="3">3</option><option value="3+">3+</option><option value="4">4</option><option value="4+">4+</option><option value="5">5</option><option value="5+">5+</option><option value="6a">6a</option><option value="6a+">6a+</option><option value="6b">6b</option><option value="6b+">6b+</option><option value="6c">6c</option><option value="6c+">6c+</option><option value="7a">7a</option><option value="7a+">7a+</option><option value="7b">7b</option><option value="7b+">7b+</option><option value="7c">7c</option><option value="7c+">7c+</option><option value="8a">8a</option><option value="8a+">8a+</option><option value="8b">8b</option><option value="8b+">8b+</option><option value="8c">8c</option><option value="8c+">8c+</option><option value="9a">9a</option><option value="9a+">9a+</option><option value="9b">9b</option><option value="9b+">9b+</option><option value="9c">9c</option><option value="9c+">9c+</option>
+									</select>
+								</div>
+								<!---	Edit Route Setter	--------->
+								<div class="form-group">
+									<label for="inputRouteSetter">Route Setter</label>
+									<input type="email" class="form-control" id="editInputRouteSetter" aria-describedby="emailHelp" placeholder="Route Setter Name">
+								</div>
+								<!---	Edit Date Set		--------->
+								<div class="form-group row">
+									<label for="inputRouteDate" class="col-2 col-form-label">Date Set</label>
+									<div class="col-10">
+										<input class="form-control" type="date" date-format="dd-mm-yyyy" id="editInputDateSet">
+									</div>
+								</div>
+
+
+								<button type="button" id="saveEditRouteButton" class="btn btn-primary btn-block" data-dismiss="modal">Save Changes</button>	
+							</form>
+						</div>
+					</div>
+				</div>
+				<div class="modal-footer">
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<h1>Rope Race Routes App</h1>
+	</div>
+	<!--- 	HTML Forms	------------------------------------------------------------------------------------------------------->
+	
+	<!---	Login Form	------------------------------------------------------------------------------------------------------->
+	<div class="container" id="loginForm">
+		<div class="card bg-light">
+			<h3>Please Sign In</h3>
+			<form>
+				<div class="form-group">
+					<label for="inputEmail">Email address</label>
+					<input type="email" class="form-control" id="inputEmail" aria-describedby="emailHelp" placeholder="Enter email">
+					<small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+				</div>
+				<div class="form-group">
+					<label for="inputPassword">Password</label>
+					<input type="password" class="form-control" id="inputPassword" placeholder="Password">
+				</div>
+				<button type="button" id="signInButton" class="btn btn-primary btn-block">Sign In</button>
+				<button type="button" id="newAccountButton" class="btn btn-warning btn-block">Create New Account</button>
+				<button type="button" id="signInGoogleButton" class="btn btn-primary btn-block">Sign In With Google</button>	
+			</form>
+		</div>
+	</div>
+	<hr>
+	<!---	Log out Form	----------------------------------------------------------------------------------------------------->
+	<div class="container" id="logOutForm">
+		<div class="card">
+			<button type="button" id="logOutButton" class="btn btn-primary btn-block">Logout</button>
+		</div>
+	</div>
+	<hr>
+	<!---	Show routes here	------------------------------------------------------------------------------------------------->
+	<div class="container" id="showRoutes">
+		<h1>Show Routes Here</h1>
+	</div>
+	
+	<!---	Add Route Form	--------------------------------------------------------------------------------------------------->
+	<div class="container" id="addRouteForm">
+		<div class="card">
+			<h3>Add New Route</h3>
+			<form>
+				<!---	Wall Number		--------->
+				<div class="form-group">
+					<label for="inputWallNumber">Wall Number</label>
+					<select class="form-control" id="inputWallNumber">
+	<option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="1">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option><option value="32">32</option><option value="33">33</option><option value="34">34</option>
+					</select>
+				</div>
+				
+				<!---	Route Colour	--------->
+				<div class="form-group">
+					<label for="inputRouteColour">Colour</label>
+					<select class="form-control" id="inputRouteColour">
+	<option value="black">Black</option><option value="blue">Blue</option><option value="green">Green</option><option value="greenWhite">Green &amp; White</option><option value="grey">Grey</option><option value="orange">Orange</option><option value="pink">Pink</option><option value="purple">Purple</option><option value="red">Red</option><option value="redGreen">Red &amp; Green</option><option value="redPink">Red &amp; Pink</option><option value="redYellow">Red &amp; Yellow</option><option value="RWB">Red White Blue</option><option value="sand">Sand</option><option value="white">White</option><option value="yellow">Yellow</option><option value="yellowOrange">Yellow &amp; Orange</option>
+					</select>
+				</div>
+				
+				<!---	Route Grade		--------->
+				<div class="form-group">
+					<label for="inputRouteGrade">Grade</label>
+					<select class="form-control" id="inputRouteGrade">
+	<option value="3">3</option><option value="3+">3+</option><option value="4">4</option><option value="4+">4+</option><option value="5">5</option><option value="5+">5+</option><option value="6a">6a</option><option value="6a+">6a+</option><option value="6b">6b</option><option value="6b+">6b+</option><option value="6c">6c</option><option value="6c+">6c+</option><option value="7a">7a</option><option value="7a+">7a+</option><option value="7b">7b</option><option value="7b+">7b+</option><option value="7c">7c</option><option value="7c+">7c+</option><option value="8a">8a</option><option value="8a+">8a+</option><option value="8b">8b</option><option value="8b+">8b+</option><option value="8c">8c</option><option value="8c+">8c+</option><option value="9a">9a</option><option value="9a+">9a+</option><option value="9b">9b</option><option value="9b+">9b+</option><option value="9c">9c</option><option value="9c+">9c+</option>
+					</select>
+				</div>
+				<!---	Route Setter	--------->
+				<div class="form-group">
+					<label for="inputRouteSetter">Route Setter</label>
+					<input type="email" class="form-control" id="inputRouteSetter" aria-describedby="emailHelp" placeholder="Route Setter Name">
+				</div>
+				<!---	Date Set		--------->
+				<div class="form-group row">
+					<label for="inputRouteDate" class="col-2 col-form-label">Date Set</label>
+					<div class="col-10">
+						<input class="form-control" type="date" date-format="dd-mm-yyyy" id="inputDateSet">
+					</div>
+				</div>
+				
+				
+				<button type="button" id="addNewRouteButton" class="btn btn-primary btn-block">Add New Route</button>	
+			</form>
+		</div>
+	</div>
+	
+	
+	<!----------------- Scripts --------------------------------------------------------------------------------------->
+	<script>
+		var currentUser = {};
+	//----------------- Button Listeners -----------------//
+	//--- Add new Account Button --=----------------------//
+		$("#newAccountButton").click(function(){
+			var email = $("#inputEmail").val();
+			var password = $("#inputPassword").val();
+			newAccount(email, password);
+			alert("Thank you " + email + " for registering.");
+			console.log("new user =" + email + " " + password);
+		});
+	//--- Sign in button ---------------------------------//
+		$("#signInButton").click(function(){
+			var email = $("#inputEmail").val();
+			var password = $("#inputPassword").val();
+			signIn(email, password);
+			alert("Welcome back " + email);
+			console.log("login user =" + email + " " + password);
+		});
+	//--- Log out button ---------------------------------//
+		$("#logOutButton").click(function(){
+			firebase.auth().signOut();
+			console.log("Logout")
+			alert("You have been logged out")
+		});	
+	//--- Add New Route ----------------------------------//
+		$("#addNewRouteButton").click(function(){
+			// get val() from evry control of the input form and put them into variables.
+			var route = {
+				id:				$("#inputWallNumber :selected").val() + $("#inputRouteColour :selected").val() + Date.now(),
+				wallNumber:		$("#inputWallNumber :selected").val(),
+				colour:			$("#inputRouteColour :selected").val(),
+				grade:			$("#inputRouteGrade").val(),
+				routeSetter:	$("#inputRouteSetter").val(),
+				dateSet:		$("#inputDateSet").val()
+			}
+			//write the variables to the database
+			console.log(route);
+			addRouteToDatabase(route);
+		});
+//--- Save Edit Route ---------------------------------------//
+		$("#saveEditRouteButton").click(function(){
+			// get val() from evry control of the input form and put them into variables.
+			var route = {
+				id:				$("#routeID").val(),
+				wallNumber:		$("#editInputWallNumber :selected").val(),
+				colour:			$("#editInputRouteColour :selected").val(),
+				grade:			$("#editInputRouteGrade :selected").val(),
+				routeSetter:	$("#editInputRouteSetter").val(),
+				dateSet:		$("#editInputDateSet").val()
+			}
+			//write the variables to the database
+			addRouteToDatabase(route);
+		});	
+		
+		
+	//--- Delete Route Button ----------------------------//
+		$(document).on("click", ".deleteRouteButton",function(){
+			var routeID = $(this).attr('id');
+			firebase.database().ref("routes/" + routeID).remove();
+		});
+	//--- Edit Route Button ------------------------------//
+		$(document).on("click", ".editRouteButton",function(){
+			var routeID = $(this).attr("data-routeid");
+			$("#routeID").val(routeID);
+			var wallNumber = $(this).parent().find(".routeDataWallNumber").text();
+			$("#editInputWallNumber").val(wallNumber).change();
+			var routeColour = $(this).parent().find(".routeDataColour").text();
+			$("#editInputRouteColour").val(routeColour).change();
+			var routeGrade = $(this).parent().find(".routeDataGrade").text();
+			$("#editInputRouteGrade").val(routeGrade).change();
+			var routeSetter = $(this).parent().find(".routeDataRouteSetter").text();
+			$("#editInputRouteSetter").val(routeSetter);
+			var dateSet = $(this).parent().find(".routeDataDateSet").text();
+			$("#editInputDateSet").val(dateSet).val();
+		});
+	//----------------- functions ------------------------//
+	//--- Write route data to datebase -------------------//
+		function addRouteToDatabase(r) {
+			firebase.database().ref('routes/' + r.id).set(r);
+		}
+		
+	//--- Add new user -----------------------------------//
+		function newAccount(email, password){
+			firebase.auth().createUserWithEmailAndPassword(email, password).catch(function(error) {
+				// Handle Errors here.
+				var errorCode = error.code;
+				var errorMessage = error.message;
+				// ...
+				alert(errorMessage);
+			});
+		}
+		
+	//--- User logs in -----------------------------------//
+		function signIn(email, password){
+			firebase.auth().signInWithEmailAndPassword(email, password).catch(function(error) {
+				// Handle Errors here.
+				var errorCode = error.code;
+				var errorMessage = error.message;
+				//..
+				alert(errorMessage);
+			});
+		}
+	//--- Log user data ----------------------------------//
+		function writeUserData(user) {
+			firebase.database().ref('users/' + user.uid).set({
+				email: user.email
+			});
+		}
+	//--- Print routes to page ---------------------------//
+		var routeReference = firebase.database().ref("routes");
+			routeReference.on("value",function(snapshot){
+				$("#showRoutes").empty();
+				var routeHTMLItem = "<h3>Here are all the routes in the database</h3>"
+
+				snapshot.forEach(function(childsnapshot){
+					var route = childsnapshot.val();
+					routeHTMLItem +="<div class='routeHTMLItem'><hr /><ul>";
+					routeHTMLItem +="<li>Wall Number: <span class='routeDataWallNumber'>" + route.wallNumber + "</span></li>";
+					routeHTMLItem +="<li>Colour: <span class='routeDataColour'>" + route.colour + "</span></li>";
+					routeHTMLItem +="<li>Grade: <span class='routeDataGrade'>" + route.grade + "</span></li>";
+					routeHTMLItem +="<li>Route Setter: <span class='routeDataRouteSetter'>" + route.routeSetter + "</span></li>";
+					routeHTMLItem +="<li>Date Set: <span class='routeDataDateSet'>" + route.dateSet + "</span></li>";
+					routeHTMLItem +="</ul>";
+					routeHTMLItem +="<button type='button' class='btn btn-danger deleteRouteButton' id='" + route.id + "'>Delete Me</button>";
+					routeHTMLItem +="<button type='button' class='btn btn-primary editRouteButton' data-toggle='modal' data-target='#editRoute' data-routeid='" + route.id + "'>Edit Route</button>";	
+					routeHTMLItem +="</div>";
+				});
+				$("#showRoutes").html(routeHTMLItem);
+			});
+	//--- On user signup / login -------------------------//
+		firebase.auth().onAuthStateChanged(function(user) {
+			if (user) {
+				// User is signed in.
+				var email = user.email;
+				currentUser = user;
+				writeUserData(user);
+				// hide login form
+				$("#loginForm").hide();
+				//show add route form
+				$("#addRouteForm").show();
+			} else {
+				// User is signed out.
+				// ...
+				$("#loginForm").show();
+				$("#addRouteForm").hide();
+			}
+		});
+	</script>
+</body>
+</html>

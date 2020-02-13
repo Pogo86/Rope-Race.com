@@ -56,7 +56,8 @@
 					<abbr title="Email">E</abbr>:<a href="mailto:contact@roperace.co.uk">contact@roperace.co.uk</a>
 				</p>
 				<p>
-					<abbr title="Hours">H</abbr>: Monday - Thursday: 10:00 AM to 10:00 PM
+					<abbr title="Hours">H</abbr>: Monday 4:00 PM - 10:00 PM
+                    <br>Tuesday - Thursday: 10:00 AM to 10:00 PM
 					<br>Friday: 10:00 AM to 9:00 PM
 					<br>Saturday - Sunday: 10:00 AM to 6:00 PM
 				</p>

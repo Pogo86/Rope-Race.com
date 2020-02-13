@@ -1,12 +1,12 @@
-<?php $title= "Function Room Hire - Rope Race Climbing Centre";?>
-<?php $metaDescription= "";?>
+b<?php $title= "Function Room Hire - Rope Race Climbing Centre";?>
+<?php $metaDescription= "Hire our function room for any occasion or event. Can be hired for a couple of hours or over multiple days whatever suits your group or event.";?>
 <?php $groupTag="Misc";?>
 <!-- Also Like Links & imgs -->
 <?php $alsoLikeLink1="mobileClimbingWall";?>
 <?php $alsoLikeImg1="mobileClimbingWall";?>
 <?php $alsoLikeLink2="abseils";?>
 <?php $alsoLikeImg2="charityAbseils";?>
-<?php $alsoLikeLink3="beginners";?>
+<?php $alsoLikeLink3="beginnersClimbing";?>
 <?php $alsoLikeImg3="beginners";?>
 <?php $alsoLikeLink4="schoolsYouthClubs";?>
 <?php $alsoLikeImg4="schoolsYC";?>

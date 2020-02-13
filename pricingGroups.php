@@ -6,7 +6,7 @@
 			</button>
 		</h5>
 	</div>
-	<div id="collapseThree" class="collapse show" aria-labelledby="headingThree" data-parent="#accordion">
+	<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
 		<div class="card-body">
 			<div class="row">
 				<!-- img goes here -->
@@ -22,7 +22,7 @@
 							</tr>
 							<tr>
 								<td>Climbing or Archery</td>
-								<td align="right">£8.00<br /><small>per person</small></td>
+								<td align="right">£8.50<br /><small>per person</small></td>
 								<td align="right"><small>instruction price below</small></td>
 							</tr>
 							<tr>
@@ -35,7 +35,7 @@
 							</tr>
 							<tr>
 								<td>Climbing or Archery <br /><small>1-2 hours</small></td>
-								<td align="right">£8.00</td>
+								<td align="right">£8.50</td>
 								<td align="right"><small>per person, equipment included. Instruction below</small></td>
 							</tr>
 							<tr>

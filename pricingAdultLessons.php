@@ -6,7 +6,7 @@
 			</button>
 		</h5>
 	</div>
-	<div id="collapseFour" class="collapse show" aria-labelledby="headingFour" data-parent="#accordion">
+	<div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
 		<div class="card-body">
 			<div class="row">
 				<!-- img goes here -->
@@ -55,7 +55,7 @@
 								<td colspan="2" align="right">£10.00<br /><small>per person</small></td>
 							</tr>
 							<tr>
-								<td><a href="outdoorClimbingNights.php">Outdoor Climbing Nights</a><br /><small>Tuesday evenings 6:30 till dark, adults only</small></td>
+								<td><a href="outdoorClimbing.php">Outdoor Climbing</a><br /><small>Tuesday evenings 6:30 till dark, adults only</small></td>
 								<td colspan="2" align="right">£14.00<br /><small>per person, equipment included</small></td>
 							</tr>
 						</tbody>

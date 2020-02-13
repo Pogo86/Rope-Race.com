@@ -6,7 +6,7 @@
 			</button>
 		</h5>
 	</div>
-	<div id="collapseFive" class="collapse show" aria-labelledby="headingFive" data-parent="#accordion">
+	<div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
 		<div class="card-body">
 			<div class="row">
 				<!-- img goes here -->
@@ -18,45 +18,53 @@
 					<table class="table table-hover">
 						<tbody>
 							<tr>
-								<td colspan="3" align="center"><a href="tasterSession.php"><h2>Have a go Taster Sessions</h2></a></td>
+								<td colspan="3" align="center"><a href="kidsClimbing "><h2>Lessons For Children</h2></a></td>
 							</tr>
 							<tr>
-								<td><a href="tasterSession">One Hour Staster Session</a><br /><small>1 person</small></td>
-								<td colspan="2" align="right">£20.00</td>
+								<td><a href="geckosClimbingClub">Geckos Climbing Club</a><br /><small>aged 6 to 18</small></td>
+								<td colspan="2" align="right">£9.00</td>
 
 							</tr>
 							<tr>
-								<td><a href="tasterSession">One Hour Staster Session</a><br /><small>2 people</small></td>
-								<td colspan="2" align="right">£35.00</td>
+								<td><a href="miniMonkeys">Mini Monkeys</a><br /><small>aged 5</small></td>
+								<td colspan="2" align="right">£9.00</td>
 
 							</tr>
 							<tr>
-								<td><a href="tasterSession">One Hour Staster Session</a><br /><small>3 people</small></td>
-								<td colspan="2" align="right">£55.00</td>
+								<td><a href="rockAcademy">Rock Academy</a><br /><small>Competiton Climbing Team Training</small></td>
+								<td colspan="2" align="right">£9.00</td>
 
 							</tr>
 							<tr>
-								<td><a href="tasterSession">One Hour Staster Session</a><br /><small>additional person</small></td>
-								<td colspan="2" align="right">£15.00</td>
-
+								<td colspan="3" align="center"><a href="birthdayParties"><h2>Birthday Parties</h2></a></td>
 							</tr>
 							<tr>
-								<td colspan="3" align="center"><a href="beginnersClimbing.php"><h2>Beginners Climbing Course</h2></a></td>
+								<td>Party with food<br /><small>Climbing or Archery</small></td>
+								<td colspan="2" align="right">£16.50<br /><small>per person &#40;min 6&#41;</small></td>
 							</tr>
 							<tr>
-								<td>Beginners Climbing Course <br /><small>4 weeks, 2 hours per week</small></td>
-								<td colspan="2" align="right">£90.00</td>
+								<td>Party without food<br /><small>Climbing or Archery</small></td>
+								<td colspan="2" align="right">£12.50<br /><small>per person &#40;min 6&#41;</small></td>
+							</tr>							
+							<tr>
+								<td>Combo party<br /><small>Climbing and Archery 2 hours food included</small></td>
+								<td colspan="2" align="right">£27.50<br /><small>per person &#40;min 6&#41;</small></td>
+							</tr>							
+							<tr>
+								<td>Canoeing party<br /><small>1.5 hours food included</small></td>
+								<td colspan="2" align="right">£27.00<br /><small>per person &#40;min 6&#41;</small></td>
+							</tr>							
+							
+							<tr>
+								<td colspan="3" align="center"><a href="holidayClub"><h2>School Holiday Activities</h2></a></td>
 							</tr>
 							<tr>
-								<td colspan="3" align="center"><h2>Other Courses</h2></td>
+								<td>Single Session<br /><small>climbing aged 6 and up, Other aged 8 and up</small></td>
+								<td colspan="2" align="right">£12.00<br /><small>per person</small></td>
 							</tr>
 							<tr>
-								<td><a href="familyClimbing.php">Family Climbing</a><br /><small>familys to learn together</small></td>
-								<td colspan="2" align="right">£10.00<br /><small>per person</small></td>
-							</tr>
-							<tr>
-								<td><a href="outdoorClimbingNights.php">Outdoor Climbing Nights</a><br /><small>Tuesday evenings 6:30 till dark, adults only</small></td>
-								<td colspan="2" align="right">£14.00<br /><small>per person, equipment included</small></td>
+								<td>Full Day<br /><small>aged 8 and up</small></td>
+								<td colspan="2" align="right">£30.00<br /><small>per person</small></td>
 							</tr>
 						</tbody>
 					</table>							

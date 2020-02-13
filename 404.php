@@ -6,8 +6,7 @@
 <!doctype html>
 <html lang="en">
     <!-- Page Content -->
-    <div class="container">
-
+  <div class="container">
       <!-- Page Heading/Breadcrumbs -->
       <h1 class="mt-4 mb-3">404
         <small>Page Not Found</small>
@@ -40,7 +39,7 @@
                 <a href="familyClimbing">Family Climbing Sessions</a>
               </li>
               <li>
-                <a href="outdoorClimbingNights">Outdoor Climbing Nights</a>
+                <a href="outdoorClimbing">Outdoor Climbing</a>
               </li>
             </ul>
           </li>
